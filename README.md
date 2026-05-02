@@ -4,4 +4,4 @@
 
 This project **IS NOT DONE YET** cuz i haven't trained it yet. i'm just making the architecture of it, still figuring it out how to train it with a short time using all of the data
 
-Dataset source is from [![VizWiz](https://vizwiz.org/wp-content/uploads/2019/05/logo-name1.png)](https://vizwiz.org/tasks-and-datasets/image-captioning/)
+Source dataset: [![VizWiz](https://vizwiz.org/wp-content/uploads/2019/05/logo-name1.png)](https://vizwiz.org/tasks-and-datasets/image-captioning/)
