@@ -3,3 +3,6 @@
 
 # ignore all the model checkpoints
 /lightning_logs/
+
+*.h5
+*.pth
