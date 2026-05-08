@@ -10,6 +10,8 @@ After some experiment i got multiple result but they're not too different from e
 
 So far, results that i get is really bad which i got 6 on BLEU (Billingual Evaluation Understudy) Score
 
+Nvm, i just realized this task is just too general and too big to do all of them (captioning every possible image)
+
 Source dataset:
 [Flickr8k](https://www.kaggle.com/datasets/adityajn105/flickr8k)
 [VizWiz](https://vizwiz.org/tasks-and-datasets/image-captioning/)
